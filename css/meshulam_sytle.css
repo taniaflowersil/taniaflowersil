@@ -1,0 +1,81 @@
+.meshulam-pay_page_meshulam-paypal-setting #wpcontent,.toplevel_page_meshulam-payment-setting #wpcontent{color:#000}
+.meshulam_payment_wrapper{position:relative}
+.toplevel_page_meshulam-payment-setting .meshulam_payment_>h2::after{content:'';position:absolute;background-image:url(../images/meshulam_icons.png);width:50px;height:72px;top:0;left:665px}
+.toplevel_page_meshulam-payment-setting .meshulam_>h2::after{content:'';position:absolute;background-image:url(../images/grow-logo.svg);background-size:contain;background-repeat:no-repeat;width:140px;height:72px;top:0;left:665px}
+.meshulam_payment_ h2{color:#25b1e7;font-size:2em!important;margin-bottom:30px!important;position:relative}
+.meshulam_ h2{color:#25b1e7;font-size:2em!important;margin-bottom:30px!important;position:relative}
+.meshulam_payment_ p{font-size:1.2em;margin-top:0;color:#888}
+.meshulam_ p{font-size:1.2em;color:#888}
+.wrap.meshulam_payment_ label{font-size:1.1em}
+.wrap.meshulam_ label{font-size:1.1em}
+.wrap.meshulam_payment_ textarea{width:500px;max-width:100%;min-height:100px;font-size:16px;color:#222;transition:.5s ease all;-webkit-transition:.5s ease all;border:1px solid #a3a3a3;border-radius:6px}
+.wrap.meshulam_ textarea{width:500px;max-width:100%;min-height:100px;font-size:16px;color:#222;transition:.5s ease all;-webkit-transition:.5s ease all;border:1px solid #a3a3a3;border-radius:6px}
+.wrap.meshulam_payment_ textarea:focus{border-color:#61d0f0}
+.wrap.meshulam_ textarea:focus{border-color:#61d0f0}
+.wrap.meshulam_payment_ input[type=email],.wrap.meshulam_payment_ input[type=password],.wrap.meshulam_payment_ input[type=text]{display:block;width:500px;max-width:100%;margin-bottom:5px;height:50px;background:#fff;padding-right:16px;font-size:16px;color:#222;transition:.5s ease all;-webkit-transition:.5s ease all;border:1px solid #a3a3a3;border-radius:6px;padding-left:10px;font-weight:400;transition:.5s ease all;-webkit-appearance:none;-moz-appearance:none;outline:0!important}
+.wrap.meshulam_ input[type=email],.wrap.meshulam_ input[type=password],.wrap.meshulam_ input[type=text]{display:block;width:500px;max-width:100%;margin-bottom:5px;height:50px;background:#fff;padding-right:16px;font-size:16px;color:#222;transition:.5s ease all;-webkit-transition:.5s ease all;border:1px solid #a3a3a3;border-radius:6px;padding-left:10px;font-weight:400;transition:.5s ease all;-webkit-appearance:none;-moz-appearance:none;outline:0!important}
+.wrap.meshulam_payment_ input[type=password]:focus,.wrap.meshulam_payment_ input[type=text]:focus{border-color:#61d0f0}
+.wrap.meshulam_ input[type=password]:focus,.wrap.meshulam_ input[type=text]:focus{border-color:#61d0f0}
+.toplevel_page_meshulam-payment-setting input#submit{background-color:#41d993;border:2px solid #41d993;border-radius:30px;color:#fff;cursor:pointer;transition:.5s ease all;text-shadow:none;line-height:28px;height:42px;box-shadow:none;font-size:1em;padding:0;min-width:150px;font-weight:600;letter-spacing:.5px;transition:.5s ease all;-webkit-transition:.5s ease all}
+.toplevel_page_meshulam-payment-setting input#submit:hover{background-color:transparent;color:#41d993}
+.meshulam_payment_ input[type=checkbox]{width:18px;height:18px;border-color:#61d0f0;position:relative}
+.meshulam_ input[type=checkbox]{width:18px;height:18px;border-color:#61d0f0;position:relative}
+.meshulam_payment_ input[type=checkbox]:checked:before{color:#61d0f0;margin:-2px 0 0 -3px;font:normal 21px/1 dashicons}
+.meshulam_ input[type=checkbox]:checked:before{color:#61d0f0;margin:-2px 0 0 -3px;font:normal 21px/1 dashicons}
+html[lang=he-IL] .meshulam_payment_wrapper::after{left:auto;right:665px}
+.meshulam_acc td#bacs_accounts p{margin-bottom:10px;font-weight:500}
+.meshulam_acc td#bacs_accounts input[type=text]{min-width:175px}
+.meshulam_left_col,.meshulam_right_col{display:inline-block;vertical-align:top}
+.meshulam_right_col{width:840px}
+.meshulam_left_col{width:calc(100% - 854px)}
+.meshulam_left_col input[type=password],.meshulam_left_col input[type=text]{width:100%!important;max-width:500px}
+.meshulam_left_col td.forminp,.meshulam_left_col th{display:block;width:100%}
+.meshulam_left_col td.forminp{padding-top:0;padding-right:0;padding-left:0;padding-bottom:0;margin-bottom:0}
+.meshulam_left_col .wrapper{max-width:600px;padding:30px 30px;box-sizing:border-box;background-color:#fff;border-radius:10px;border:1px solid #ccc}
+.meshulam_left_col .wrapper h3{margin:0;border-bottom:1px solid #ccc;padding-bottom:15px;font-size:1.5em;line-height:1.2}
+.meshulam_right_col h3{font-size:1.5em;line-height:1.2}
+.meshulam_right_col table.form-table textarea.wide-input,.meshulam_right_col textarea.wide-input{max-width:400px}
+.meshulam_right_col table.form-table input[type=email],.meshulam_right_col table.form-table input[type=tel]{width:400px!important;max-width:100%}
+html[lang=he-IL] .wrap.meshulam_payment_ input{direction:rtl}
+.woocommerce .meshulam_right_col table.form-table select[multiple]{width:400px;height:80px;overflow:hidden;border:0;background-color:transparent;box-shadow:none}
+.woocommerce .meshulam_right_col table.form-table select[multiple]+.btn-group button{display:none}
+.woocommerce .meshulam_right_col table.form-table ul.multiselect-container .multiselect-all{display:none}
+.woocommerce .meshulam_right_col table.form-table ul.multiselect-container a{color:#32373c}
+.woocommerce .meshulam_right_col table.form-table ul.multiselect-container li{margin-bottom:0}
+.woocommerce table.form-table th label[for=woocommerce_meshulam-payment_title]::after{content:'*';color:#f44336}
+.woocommerce table.form-table th label[for=woocommerce_meshulam-payment_business_owner_code]::after{content:'*';color:#f44336}
+.woocommerce table.form-table th label[for=woocommerce_meshulam-payment_thank_you_page]::after{content:'*';color:#f44336}
+.woocommerce table.form-table th label[for=woocommerce_meshulam-payment_fail_url]::after{content:'*';color:#f44336}
+.woocommerce table.form-table th label[for=woocommerce_meshulam-payment_payment_type]::after{content:'*';color:#f44336}
+select#woocommerce_meshulam-payment_environment option+option{display:none}
+select#woocommerce_meshulam-payment_environment option+option{display:none}
+.meshulam_payment_ .notice.notice-error p{padding-top:11px}
+textarea#woocommerce_meshulam-bit-payment_add_payment_note,textarea#woocommerce_meshulam-bit-payment_company_api_extra_details,textarea#woocommerce_meshulam-bit-payment_description_payer{width:400px}
+input#_meshulam_checkbox_field{width:16px!important}
+#iframe_error{text-align:center;color:red;font-weight:700}
+.woocommerce-checkout #payment div.payment_box::before{display:none}
+.payment_method_meshulam-payment{margin:0!important}
+#Meshulam-options h1{display:block;width:100%}
+@media only screen and (max-width:1440px){
+.meshulam_right_col{width:640px}
+.meshulam_left_col{width:calc(100% - 654px)}
+.meshulam_acc td#bacs_accounts input[type=text]{min-width:116px}
+}
+@media only screen and (max-width:1100px){
+.meshulam_right_col{width:100%}
+.meshulam_left_col{width:100%}
+.meshulam_left_col .wrapper{max-width:100%}
+}
+.main_meshulam_loader{display:none}
+.meshulam_loader{position:fixed;display:flex;align-items:center;justify-content:center;top:0;width:100%;height:100%;z-index:99999}
+.meshulam_loader .inside_loader{border:16px solid #f3f3f3;margin-top:-150px;border-top:16px solid #3498db;border-radius:50%;width:120px;height:120px;animation:spin 2s linear infinite}
+@keyframes spin{
+0%{transform:rotate(0)}
+100%{transform:rotate(360deg)}
+}
+.edit-php.post-type-shop_order table #meshulam-ivoice{width:1ch}
+.wc_payment_method.payment_method_apple-payment label img{width:45px}
+.wc_payment_method .payment_box p{margin:0}
+@media only screen and (max-width:767px){
+.single-content{padding:0}
+}

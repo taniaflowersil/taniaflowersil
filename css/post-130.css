@@ -1,0 +1,22 @@
+.elementor-130 .elementor-element.elementor-element-bfc80f6 > .elementor-widget-wrap > .elementor-widget:not(.elementor-widget__width-auto):not(.elementor-widget__width-initial):not(:last-child):not(.elementor-absolute){margin-bottom:10px;}.elementor-widget-image .widget-image-caption{color:var( --e-global-color-text );font-family:var( --e-global-typography-text-font-family ), Varela Round;font-weight:var( --e-global-typography-text-font-weight );}.elementor-130 .elementor-element.elementor-element-ff6f594 > .elementor-widget-container{margin:0px 0px 10px 0px;}.elementor-130 .elementor-element.elementor-element-ff6f594:not( .elementor-widget-image ) .elementor-widget-container, .elementor-130 .elementor-element.elementor-element-ff6f594.elementor-widget-image .elementor-widget-container img{-webkit-mask-image:url( ../images/circle.svg );-webkit-mask-size:contain;-webkit-mask-position:center center;-webkit-mask-repeat:no-repeat;}.elementor-130 .elementor-element.elementor-element-ff6f594 img{width:250px;max-width:250px;}.elementor-widget-heading .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Varela Round;font-weight:var( --e-global-typography-primary-font-weight );color:var( --e-global-color-primary );}.elementor-130 .elementor-element.elementor-element-5a201c2{text-align:center;}.elementor-130 .elementor-element.elementor-element-5a201c2 .elementor-heading-title{font-family:"Varela Round", Varela Round;font-size:20px;font-weight:600;color:var( --e-global-color-f0ea81a );}.elementor-130 .elementor-element.elementor-element-44cc516{text-align:center;}.elementor-130 .elementor-element.elementor-element-44cc516 .elementor-heading-title{font-family:"Varela Round", Varela Round;font-size:18px;font-weight:normal;color:var( --e-global-color-f0ea81a );}.elementor-130 .elementor-element.elementor-element-738e1f4 > .elementor-widget-container{margin:10px 0px 0px 0px;}.elementor-130 .elementor-element.elementor-element-738e1f4 .jet-woo-builder-archive-add-to-cart .button{display:inline-block;--display-type:inline-block;font-family:var( --e-global-typography-text-font-family ), Varela Round;font-weight:var( --e-global-typography-text-font-weight );color:var( --e-global-color-2e16e971 );background-color:var( --e-global-color-primary );border-radius:20px 20px 20px 20px;padding:5px 20px 4px 20px;}.elementor-130 .elementor-element.elementor-element-738e1f4 .jet-woo-builder-archive-add-to-cart .button:hover{background-color:var( --e-global-color-7887c41 );}.elementor-130 .elementor-element.elementor-element-738e1f4 .jet-woo-builder-archive-add-to-cart .button.added{background-color:var( --e-global-color-7887c41 );}.elementor-130 .elementor-element.elementor-element-738e1f4 .jet-woo-builder-archive-add-to-cart{text-align:center;}.jet-listing-item.single-jet-engine.elementor-page-130 > .elementor{width:300px;margin-left:auto;margin-right:auto;}@media(max-width:767px){.elementor-130 .elementor-element.elementor-element-ff6f594 img{width:100%;max-width:200px;}}/* Start custom CSS for image, class: .elementor-element-ff6f594 */.elementor-130 .elementor-element.elementor-element-ff6f594 img {
+  aspect-ratio: 1 / 1;
+  object-fit: contain;
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-5a201c2 */@media screen and (max-width: 767px)  {
+    
+    .elementor-130 .elementor-element.elementor-element-5a201c2 {
+    min-height: 50px;
+}
+
+}/* End custom CSS */
+/* Start custom CSS for heading, class: .elementor-element-44cc516 */.elementor-130 .elementor-element.elementor-element-44cc516 .woocommerce-Price-currencySymbol {
+    font-size: 15px;
+}/* End custom CSS */
+/* Start custom CSS for section, class: .elementor-element-515b8b9 */.elementor-130 .elementor-element.elementor-element-515b8b9 .product-img {
+    transition: all 0.3s ease !important;
+}
+
+.elementor-130 .elementor-element.elementor-element-515b8b9:hover .product-img {
+    filter: drop-shadow(0 0 20px #F0D9FF);
+    transition: all 0.3s ease !important;
+}/* End custom CSS */
